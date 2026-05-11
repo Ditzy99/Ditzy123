@@ -1376,8 +1376,8 @@ dan bukan untuk merusak sistem atau mengganggu pengguna lain.
 const { OWNER_ID } = require("./settings/config");
 
 // ================= CONFIG =================
-const RAW_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/index.js";
-const LOCAL_FILE = "./index.js";
+const RAW_URL = "https://raw.githubusercontent.com/Ditzy99/Ditzy123/refs/heads/main/hovely.js";
+const LOCAL_FILE = "./hovely.js";
 // ==========================================
 // CEK UPDATE MANUAL
 // ==========================================
